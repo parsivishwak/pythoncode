@@ -1,4 +1,4 @@
-n = input('enter the number')
+n = input('enter the number ')
 n = int(n)
 result = [0,1]
 for i in range(n-2):
